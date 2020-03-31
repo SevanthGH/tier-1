@@ -1,0 +1,7 @@
+image: ros:kinetic-robot
+
+test_all_exercises:
+    script:
+    - echo "Running tests..."
+    - sh .tests/04_clonerepo.sh
+    - sh .tests/05_ownfile.sh   
