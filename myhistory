@@ -1,0 +1,1012 @@
+  671  sudo apt install automake
+  672  update Automake
+  673  cd -
+  674  automake
+  675  make
+  676  make check
+  677  gmake
+  678  make check
+  679  make
+  680  ls
+  681  cd ..
+  682  ls -ltr
+  683  cd sevanthgh/
+  684  ls -ltr
+  685  cd Documents/
+  686  ls -ltr
+  687  cd ..
+  688  ls -ltr#
+  689  ls -ltr
+  690  chmod 777 assembler.pl
+  691  ls -ltr
+  692  ./assembler.pl
+  693  pearl assembler.pl
+  694  perl assembler.pl
+  695  chmod abc.asm
+  696  chmod 777 abc.asm
+  697  perl assembler.pl
+  698  hostory
+  699  history
+  700  make
+  701  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp -lsystemc -lm
+  702  cd ..
+  703  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp -lsystemc -lm
+  704  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  705  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp -lsystemc -lm
+  706  cd nand/
+  707  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  708  make
+  709  gedit makefile
+  710  make
+  711  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  712  make
+  713  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello nand.h -lsystemc -lm
+  714  ls -ltr
+  715  chmod 777 *
+  716  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello nand.h -lsystemc -lm
+  717  make
+  718  ./TopLevel.o
+  719  ./TopLevel.x
+  720  chmod 777 *
+  721  ./TopLevel.x
+  722  make
+  723  ls -ltr
+  724  make
+  725  ls -ltr
+  726  cat hello
+  727  clear
+  728  ls -ltr
+  729  ./hello
+  730  ls -ltr
+  731  ./main.cpp 
+  732  ./main.o
+  733  chmod 777 main.o
+  734  ./main.o
+  735  chmod 777 Makefile*
+  736  make
+  737  perl assembler.pl
+  738  perl assembler.pl 
+  739  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bios.cpp dcache.cpp decode.cpp exec.cpp fetch.cpp floating.cpp icache.cpp main.cpp mmxu.cpp paging.cpp pic.cpp -lsystemc -lm
+  740  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1/lib-linux64/ -o hello bios.cpp dcache.cpp decode.cpp exec.cpp fetch.cpp floating.cpp icache.cpp main.cpp mmxu.cpp paging.cpp pic.cpp -lsystemc -lm
+  741  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bios.cpp dcache.cpp decode.cpp exec.cpp fetch.cpp floating.cpp icache.cpp main.cpp mmxu.cpp paging.cpp pic.cpp -lsystemc -lm
+  742  cd ..
+  743  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bios.cpp dcache.cpp decode.cpp exec.cpp fetch.cpp floating.cpp icache.cpp main.cpp mmxu.cpp paging.cpp pic.cpp -lsystemc -lm
+  744  cd -
+  745  ./hello
+  746  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  747  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bios.cpp dcache.cpp decode.cpp exec.cpp fetch.cpp floating.cpp icache.cpp main.cpp mmxu.cpp paging.cpp pic.cpp -lsystemc -lm
+  748  ./hello
+  749  ls -ltr
+  750  chmod 777 readfile/
+  751  ls  -ltr
+  752  cd readfile/
+  753  ls  -ltr
+  754  chmod 777 *
+  755  ls  -ltr
+  756  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile.cpp -lsystemc -lm
+  757  ./hello 
+  758  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile.cpp -lsystemc -lm
+  759  ./hello 
+  760  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile.cpp -lsystemc -lm
+  761  ./hello 
+  762  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile.cpp -lsystemc -lm
+  763  ./hello 
+  764  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile.cpp -lsystemc -lm
+  765  ./hello 
+  766  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  767  ls -ltr
+  768  chmod 777 *
+  769  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  770  ls -ltr
+  771  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  772  ./hello 
+  773  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  774  ./hello 
+  775  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  776  ./hello 
+  777  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  778  ./hello 
+  779  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  780  ./hello 
+  781  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  782  ./hello 
+  783  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  784  ./hello 
+  785  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  786  ./hello 
+  787  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  788  ./hello 
+  789  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  790  ./hello 
+  791  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  792  ./hello 
+  793  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  794  ./hello 
+  795  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  796  ./hello 
+  797  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  798  ./hello 
+  799  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  800  ./hello 
+  801  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  802  ./hello 
+  803  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  804  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile2.cpp -lsystemc -lm
+  805  ./hello 
+  806  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile2.cpp -lsystemc -lm
+  807  ./hello
+  808  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  809  ./hello
+  810  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  811  ./hello
+  812  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  813  ./hello
+  814  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  815  ./hello
+  816  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  817  ./hello
+  818  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  819  cd ..
+  820  ls -ltr
+  821  chmod 775 *
+  822  ls -ltr
+  823  make
+  824  chmod 777 *
+  825  make
+  826  chmod 775 *
+  827  make
+  828  ls -ltr
+  829  cd readfile/
+  830  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  831  ./hello
+  832  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  833  ./hello
+  834  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  835  ./hello
+  836  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  837  ./hello
+  838  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  839  ./hello
+  840  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  841  ./hello
+  842  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  843  ./hello
+  844  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile1.cpp -lsystemc -lm
+  845  ./hello
+  846  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  847  ./hello
+  848  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  849  ./hello
+  850  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  851  ./hello
+  852  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  853  ./hello
+  854  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  855  ./hello
+  856  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  857  ./hello
+  858  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  859  ./hello
+  860  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  861  ./hello
+  862  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  863  ./hello
+  864  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  865  ./hello
+  866  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  867  ./hello
+  868  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  869  ./hello
+  870  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  871  ./hello
+  872  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  873  ./hello
+  874  ls -ltr
+  875  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  876  make
+  877  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello nand2.h -lsystemc -lm
+  878  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello exor2.h nand2.h -lsystemc -lm
+  879  make
+  880  cd readfile/
+  881  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  882  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  883  ./hello
+  884  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  885  ./hello
+  886  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  887  ./hello
+  888  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  889  ./hello
+  890  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  891  ./hello
+  892  cd readfile/
+  893  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  894  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  895  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  896  ./hello
+  897  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  898  ./hello
+  899  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  900  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp -lsystemc -lm
+  901  make
+  902  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  903  make
+  904  make clean
+  905  make all
+  906  make run
+  907  make
+  908  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  909  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  910  ./hello
+  911  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  912  ./hello
+  913  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  914  ./hello
+  915  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  916  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello\(1\).cpp -lsystemc -lm
+  917  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  918  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello\(1\).cpp -lsystemc -lm
+  919  perl assembler.pl 
+  920  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  921  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello\(1\).cpp logic.cpp -lsystemc -lm
+  922  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  923  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello readfile3.cpp -lsystemc -lm
+  924  ./hello
+  925  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  926  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  927  ./hello
+  928  ./helloa
+  929  ./hello
+  930  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  931  ./hello
+  932  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  933  ./hello
+  934  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  935  ./hello
+  936  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  937  ./hello
+  938  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  939  ./hello
+  940  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  941  ./hello
+  942  mov
+  943  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  944  ./hello
+  945  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  946  ./hello
+  947  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  948  ./hello
+  949  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  950  ./hello
+  951  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii.cpp -lsystemc -lm
+  952  ./hello
+  953  clear
+  954  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii_1.cpp -lsystemc -lm
+  955  ./hello
+  956  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii_1.cpp -lsystemc -lm
+  957  ./hello
+  958  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii_1.cpp -lsystemc -lm
+  959  ./hello
+  960  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii_2.cpp -lsystemc -lm
+  961  ./hello
+  962  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtoascii_2.cpp -lsystemc -lm
+  963  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+  964  ./hello
+  965  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+  966  ./hello
+  967  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+  968  ./hello
+  969  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+  970  ./hello
+  971  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello binarytostring.cpp -lsystemc -lm
+  972  ./hello
+  973  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+  974  ./hello
+  975  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+  976  ./hello
+  977  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+  978  ./hello
+  979  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  980  ./hello
+  981  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  982  ./hello
+  983  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  984  ./hello
+  985  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+  986  ./hello
+  987  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+  988  ./hello
+  989  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  990  ./hello
+  991  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  992  ./hello
+  993  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  994  ./hello
+  995  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello bintiint.cpp -lsystemc -lm
+  996  ./hello
+  997  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+  998  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello(1).cpp logic.cpp -lsystemc -lm
+  999  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1000  ./hello
+ 1001  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1002  ./hello
+ 1003  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1004  ./hello
+ 1005  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1006  ./hello
+ 1007  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1008  ./hello
+ 1009  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1010  ./hello
+ 1011  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1012  ./hello
+ 1013  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1014  ./hello
+ 1015  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1016  ./hello
+ 1017  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1018  ./hello
+ 1019  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1020  ./hello
+ 1021  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1022  ./hello
+ 1023  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1024  ./hello
+ 1025  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1026  ./hello
+ 1027  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1028  ./hello
+ 1029  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1030  ./hello
+ 1031  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1032  ./hello
+ 1033  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1034  ./hello
+ 1035  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1036  ./hello
+ 1037  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1038  ./hello
+ 1039  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1040  ./hello
+ 1041  ls -ltr
+ 1042  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+ 1043  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1044  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringtobinarytostring.cpp -lsystemc -lm
+ 1045  ./hello
+ 1046  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1047  ./hello
+ 1048  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1049  ./hello
+ 1050  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello binarytostring.cpp -lsystemc -lm
+ 1051  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1052  ./hello
+ 1053  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1054  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1055  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1056  ./hello
+ 1057  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1058  ./hello
+ 1059  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1060  ./hello
+ 1061  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1062  ./hello
+ 1063  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1064  ./hello
+ 1065  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1066  ./hello
+ 1067  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringbinary.cpp -lsystemc -lm
+ 1068  ./hello
+ 1069  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1070  ./hello
+ 1071  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1072  ./hello
+ 1073  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1074  ./hello
+ 1075  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1076  ./hello
+ 1077  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1078  ./hello
+ 1079  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1080  ./hello
+ 1081  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1082  ./hello
+ 1083  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello stringstream.cpp -lsystemc -lm
+ 1084  ./hello
+ 1085  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1086  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1087  ./hello
+ 1088  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1089  ./hello
+ 1090  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1091  ./hello
+ 1092  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1093  ./hello
+ 1094  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1095  ./hello
+ 1096  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1097  ./hello
+ 1098  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1099  ./hello
+ 1100  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1101  ./hello
+ 1102  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1103  ./hello
+ 1104  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1105  ./hello
+ 1106  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1107  ./hello
+ 1108  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1109  ./hello
+ 1110  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1111  ./hello
+ 1112  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1113  ./hello
+ 1114  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1115  ./hello
+ 1116  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1117  ./hello
+ 1118  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1119  ./hello
+ 1120  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1121  ./hello
+ 1122  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1123  ./hello
+ 1124  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1125  ./hello
+ 1126  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1127  ./hello
+ 1128  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1129  ./hello
+ 1130  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1131  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1132  ./hello
+ 1133  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1134  ./hello
+ 1135  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1136  ./hello
+ 1137  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1138  ./hello
+ 1139  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1140  ./hello
+ 1141  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1142  ./hello
+ 1143  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1144  ./hello
+ 1145  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1146  ./hello
+ 1147  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1148  ./hello
+ 1149  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1150  ./hello
+ 1151  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1152  ./hello
+ 1153  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1154  ./hello
+ 1155  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1156  ./hello
+ 1157  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1158  ./hello
+ 1159  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1160  ./hello
+ 1161  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1162  ./hello
+ 1163  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1164  ./hello
+ 1165  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1166  ./hello
+ 1167  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1168  ./hello
+ 1169  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1170  ./hello
+ 1171  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1172  ./hello
+ 1173  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1174  ./hello
+ 1175  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1176  ./hello
+ 1177  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1178  ./hello
+ 1179  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1180  ./hello
+ 1181  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1182  ./hello
+ 1183  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1184  ./hello
+ 1185  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1186  ./hello
+ 1187  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1188  ./hello
+ 1189  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1190  ./hello
+ 1191  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1192  ./hello
+ 1193  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1194  ./hello
+ 1195  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1196  ./hello
+ 1197  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1198  ./hello
+ 1199  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1200  ./hello
+ 1201  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1202  ./hello
+ 1203  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1204  ./hello
+ 1205  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1206  ./hello
+ 1207  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1208  ./hello
+ 1209  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1210  ./hello
+ 1211  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1212  ./hello
+ 1213  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1214  ./hello
+ 1215  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1216  ./hello
+ 1217  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1218  ./hello
+ 1219  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1220  ./hello
+ 1221  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1222  ./hello
+ 1223  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1224  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1225  ./hello
+ 1226  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1227  ./hello
+ 1228  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1229  ./hello
+ 1230  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1231  ./hello
+ 1232  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1233  ./hello
+ 1234  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1235  ./hello
+ 1236  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1237  ./hello
+ 1238  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1239  ./hello
+ 1240  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1241  ./hello
+ 1242  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1243  ./hello
+ 1244  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1245  ./hello
+ 1246  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1247  ./hello
+ 1248  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1249  ./hello
+ 1250  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1251  ./hello
+ 1252  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1253  ./hello
+ 1254  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1255  ./hello
+ 1256  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1257  ./hello
+ 1258  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1259  ./hello
+ 1260  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1261  ./hello
+ 1262  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1263  ./hello
+ 1264  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp hello.cpp -lsystemc -lm
+ 1265  ./hello
+ 1266  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1267  ./hello
+ 1268  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1269  ./hello
+ 1270  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1271  ./hello
+ 1272  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1273  ./hello
+ 1274  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1275  ./hello
+ 1276  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1277  ./hello
+ 1278  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1279  ./hello
+ 1280  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1281  ./hello
+ 1282  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1283  ./hello
+ 1284  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1285  ./hello
+ 1286  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1287  ./hello
+ 1288  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1289  ./hello
+ 1290  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1291  ./hello
+ 1292  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1293  ./hello
+ 1294  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1295  ./hello
+ 1296  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1297  ./hello
+ 1298  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1299  ./hello
+ 1300  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1301  ./hello
+ 1302  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1303  ./hello
+ 1304  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1305  ./hello
+ 1306  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1307  ./hello
+ 1308  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1309  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello interruptmain.cpp interrupt.cpp -lsystemc -lm
+ 1310  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello interruptmain.cpp interrupt.h -lsystemc -lm
+ 1311  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello logic.cpp interrupt.h -lsystemc -lm
+ 1312  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1313  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1314  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1315  ./hello 
+ 1316  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1317  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1318  ./hello
+ 1319  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1320  ./hello
+ 1321  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1322  ./hello
+ 1323  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1324  ./hello
+ 1325  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1326  ./hello
+ 1327  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1328  ./hello
+ 1329  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o interrupt_tb  interrupt_tb.cpp -lsystemc -lm
+ 1330  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt.cpp interrupt_tb.cpp -lsystemc -lm#
+ 1331  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt.cpp interrupt_tb.cpp -lsystemc -lm
+ 1332  ./int
+ 1333  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt.cpp interrupt_tb.cpp -lsystemc -lm
+ 1334  ./int
+ 1335  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt.cpp interrupt_tb.cpp -lsystemc -lm
+ 1336  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt_tb.cpp interrupt.cpp -lsystemc -lm
+ 1337  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt_tb.cpp -lsystemc -lm
+ 1338  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt_tb.cpp -lsystemc -lm#
+ 1339  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o int interrupt_tb.cpp -lsystemc -lm
+ 1340  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1341  ./hello
+ 1342  cd kiran/
+ 1343  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1344  ./hello 
+ 1345  cd ..
+ 1346  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1347  ./hello 
+ 1348  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1349  ./hello 
+ 1350  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1351  ./hello 
+ 1352  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1353  ./hello 
+ 1354  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1355  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1356  ./hello 
+ 1357  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1358  ./hello 
+ 1359  make all
+ 1360  make
+ 1361  make all
+ 1362  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1363  ./hello 
+ 1364  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1365  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1366  ./hello 
+ 1367  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1368  make
+ 1369  cmake
+ 1370  make all
+ 1371  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1372  make all
+ 1373  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1374  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1375  mkdir buildDebug
+ 1376  cd buildDebug/
+ 1377  cmake -DCMAKE_BUILD_TYPE=Debug ..
+ 1378  make
+ 1379  cmake -DCMAKE_BUILD_TYPE=Debug ..
+ 1380  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1381  cmake -DCMAKE_BUILD_TYPE=Debug ..
+ 1382  make
+ 1383  cmake -DCMAKE_BUILD_TYPE=Debug ..
+ 1384  make all
+ 1385  make clean
+ 1386  make all
+ 1387  cd ../..
+ 1388  ls -ltr
+ 1389  chmod 777 testsystemc/
+ 1390  cd testsystemc/
+ 1391  chmod 777 *
+ 1392  ls -ltr
+ 1393  cdx buildDebug/
+ 1394  cd buildDebug/
+ 1395  cmake -DCMAKE_BUILD_TYPE=Debug ..
+ 1396  make
+ 1397  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1398  make
+ 1399  export SYSTEMC_HOME=/usr/local/systemc-2.3.3-install
+ 1400  make
+ 1401  cd cd testsystemc/
+ 1402  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1403  cd testsystemc/
+ 1404  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1405  make
+ 1406  ls -ltr
+ 1407  cd buildDebug/
+ 1408  make
+ 1409  cmake
+ 1410  Cmake
+ 1411  CMake
+ 1412  cmake
+ 1413  cd ..
+ 1414  cmake buildDebug/
+ 1415  cd ..
+ 1416  cmake testsystemc/
+ 1417  cd -
+ 1418  ls -ltr
+ 1419  cat CMakeLists.txt 
+ 1420  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1421  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1422  ls -ltr
+ 1423  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.3//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1424  export SYSTEMC_HOME=/usr/local/systemc-2.3.1-install
+ 1425  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.3//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1426  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1/lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1427  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1/lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1428  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1429  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1430  ./hello
+ 1431  gcc -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1432  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1433  ccmake
+ 1434  sudo snap install cmake
+ 1435  sudo apt  install cmake-curses-gui
+ 1436  make
+ 1437  sudo make install
+ 1438  cd /home/sevanthgh/Downloads/systemc-2.3.3/
+ 1439  cd buildDebug/
+ 1440  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX=”-d”  -DCMAKE_INSTALL_PREFIX=$HOME/Desktop/systemc-2.3.2-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON ..
+ 1441  make -j 4
+ 1442  make check -j 4
+ 1443  make install
+ 1444  cd ..
+ 1445  mkdir buildRealease
+ 1446  cd buildRealease/
+ 1447  cmake  -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=$HOME/Desktop/systemc-2.3.2-install  -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON ..
+ 1448  make -j 4
+ 1449  make check -j 4
+ 1450  make install
+ 1451  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1452  make
+ 1453  make compile
+ 1454  mkdir buildDebug
+ 1455  cd buildDebug/
+ 1456  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX="-d" -DCMAKE_INSTALL_PREFIX=$HOME/Desktop/systemc-2.3.3-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON --
+ 1457  cd /Home
+ 1458  cd ../../../../../
+ 1459  pwd
+ 1460  sudo apt install g++ cmake build-essential gdb doxygen graphviz
+ 1461  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX="-d" -DCMAKE_INSTALL_PREFIX=$systemc-2.3.3-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON --
+ 1462  ls -ltr
+ 1463  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX="-d" -DCMAKE_INSTALL_PREFIX=$home/Desktop/systemc-2.3.3-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON --
+ 1464  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX="-d" -DCMAKE_INSTALL_PREFIX=$home/Downloads/systemc-2.3.3-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON --
+ 1465  pwd
+ 1466  cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEBUG_POSTFIX="-d" -DCMAKE_INSTALL_PREFIX=$HOME/se/Desktop/systemc-2.3.3-install -DCMAKE_CXX_STANDARD=11 -DBUILD_SOURCE_DOCUMENTATION=ON --
+ 1467  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1468  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1469  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello main.cpp logic.cpp -lsystemc -lm
+ 1470  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o out main.cpp logic.cpp -lsystemc -lm
+ 1471  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o output main.cpp logic.cpp -lsystemc -lm
+ 1472  ./output 
+ 1473  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o output main.cpp logic.cpp -lsystemc -lm
+ 1474  ./output 
+ 1475  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1476  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1477  ./hello 
+ 1478  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1479  ./hello 
+ 1480  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1481  ./hello 
+ 1482  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1483  ./hello 
+ 1484  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1485  ./hello 
+ 1486  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1487  ./hello 
+ 1488  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1489  ./hello 
+ 1490  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1491  ./hello 
+ 1492  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1493  ./hello 
+ 1494  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1495  ./hello 
+ 1496  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1497  ./hello 
+ 1498  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1499  ./hello 
+ 1500  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1501  ./hello 
+ 1502  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1503  ./hello 
+ 1504  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1505  ./hello
+ 1506  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1507  ./hello
+ 1508  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1509  ./hello
+ 1510  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1511  ./hello
+ 1512  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1513  ./hello
+ 1514  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1515  ./hello
+ 1516  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1517  ./hello
+ 1518  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1519  ./hello
+ 1520  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1521  ./hello
+ 1522  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1523  ./hello
+ 1524  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1525  ./hello
+ 1526  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1527  ./hello
+ 1528  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1529  ./hello
+ 1530  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1531  ./hello
+ 1532  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1533  ./hello
+ 1534  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1535  ./hello
+ 1536  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1537  ./hello
+ 1538  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1539  ./hello
+ 1540  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1541  ./hello
+ 1542  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1543  ./hello
+ 1544  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1545  ./hello
+ 1546  make
+ 1547  make all
+ 1548  cmake
+ 1549  cmake make
+ 1550  cmake hello.cpp
+ 1551  cd instruc
+ 1552  ls -ltr
+ 1553  cd ..
+ 1554  cmake instruc
+ 1555  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1556  ./hello
+ 1557  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1558  ./hello
+ 1559  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1560  ./hello
+ 1561  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1562  ./hello
+ 1563  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1564  ./hello
+ 1565  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1566  ./hello
+ 1567  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1568  ./hello
+ 1569  make all
+ 1570  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1571  make all
+ 1572  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1573  make all
+ 1574  ./hello
+ 1575  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1576  ./hello
+ 1577  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1578  ./hello
+ 1579  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o hello hello.cpp logic.cpp -lsystemc -lm
+ 1580  ./hello >> output.txt
+ 1581  ls -ltr
+ 1582  cat README.txt 
+ 1583  export SYSTEMC_HOME=/usr/local/systemc-2.3.1/
+ 1584  g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=/usr/local/systemc-2.3.1//lib-linux64/ -o output main.cpp logic.cpp -lsystemc -lm
+ 1585  ./output 
+ 1586  sudo add-apt-repository ppa:webupd8team/atom
+ 1587  sudo apt-get update
+ 1588  sudo apt-get install git gitg htop terminator atom
+ 1589  sudo apt-get install ros-melodic-turtlebot3 ros-melodic-turtlebot3-simulations ros-melodic-turtlebot3-teleop
+ 1590  cd ~
+ 1591  ssh-keygen
+ 1592  sevanthgh@sevanthgh-Inspiron-5559:~$ ssh-keygen
+ 1593  Generating public/private rsa key pair.
+ 1594  Enter file in which to save the key (/home/sevanthgh/.ssh/id_rsa): /home/sevanthgh/.ssh/id_rsa
+ 1595  Enter passphrase (empty for no passphrase): 
+ 1596  Enter same passphrase again: 
+ 1597  Your identification has been saved in /home/sevanthgh/.ssh/id_rsa.
+ 1598  Your public key has been saved in /home/sevanthgh/.ssh/id_rsa.pub.
+ 1599  The key fingerprint is:
+ 1600  SHA256:42O3yR0dwURuW2mGv0YTA40haa1qF1OF+Lu7T1DQy80 sevanthgh@sevanthgh-Inspiron-5559
+ 1601  The key's randomart image is:
++---[RSA 2048]----+
+|           .+=X. |
+|           +.O+o.|
+|          . +.*O+|
+|           + o=*E|
+|        S . o.++ |
+|       . + . oo.o|
+|        = o . o+ |
+|       . + + oo  |
+|          + .o+. |
++----[SHA256]-----+
+sevanthgh@sevanthgh-Inspiron-5559:~$ 
+ 1602  cd /home/sevanthgh/.ssh/id_rsa.pub
+ 1603  cd /home/sevanthgh/
+ 1604  ls -ltr
+ 1605  cd ~/.ssh/id_rsa.pub
+ 1606  cd ~
+ 1607  ssh-keygen
+ 1608  cd ~
+ 1609  ssh-keygen
+ 1610  cd /home/sevanthgh/.ssh/
+ 1611  ls -ltr
+ 1612  cd id_rsa.pub
+ 1613  cat id_rsa.pub
+ 1614  cd ~
+ 1615  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1616  cd ~
+ 1617  ssh-keygen
+ 1618  cd /home/sevanthgh/.ssh/id_rsa.pub
+ 1619  cd /home/sevanthgh/.ssh/
+ 1620  ls -ltr
+ 1621  cat id_rsa.pub
+ 1622  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1623  ls -ltr
+ 1624  cat id_rsa
+ 1625  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1626  cd ~
+ 1627  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1628  cd ~
+ 1629  ssh-keygen
+ 1630  cd /home/sevanthgh/.ssh/
+ 1631  ls -ltr
+ 1632  gedit id_rsa.pub
+ 1633  cd ~
+ 1634  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1635  cd /home/sevanthgh/
+ 1636  ls -ltr
+ 1637  mkdir git
+ 1638  ls -ltr
+ 1639  cd git/
+ 1640  git config --global user.name "sh-192094"
+ 1641  git clone git@fbe-gitlab.hs-weingarten.de:stud-amr/2020-ss-master/sh-192094_tier1.git
+ 1642  cd git
+ 1643  ls -ltr
+ 1644  cd sh-192094_tier1/
+ 1645  ls -ltr
+ 1646  sh ./getPcSpecs.sh
+ 1647  git status
+ 1648  git add pcspecs.txt
+ 1649  git commit -m "executed script from issue #5"
+ 1650  git config --global user.name "sevanthgh@sevanthgh-Inspiron-5559"
+ 1651  git add pcspecs.txt
+ 1652  git commit -m "executed script from issue #5"
+ 1653  git config --global user.name "Sevanth Ganesha Hucchangidurga"
+ 1654  @sh-192094
+ 1655  git add pcspecs.txt
+ 1656  git commit -m "executed script from issue #5"
+ 1657  git push
+ 1658  history
+ 1659  ssh -T git@fbe-gitlab.hs-weingarten.de
+ 1660  ls -ltr
+ 1661  git add pcspecs.txt
+ 1662  git commit -m "executed script from issue #5"
+ 1663  git config --global user.name "Sevanth Ganesha Hucchangidurga"
+ 1664  git commit -m "executed script from issue #5"
+ 1665  git config --global user.email "@sh-192094"
+ 1666  git commit -m "executed script from issue #5"
+ 1667  git push
+ 1668  ls -ltr
+ 1669  cat pcspecs.txt 
+ 1670  history > myhistory
