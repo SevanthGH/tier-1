@@ -5,8 +5,6 @@ This course teaches lots of interesting robotics stuff.
  2. Python
  3. Git 
 
-'''sh
     ls  
     cd  
     cp  
-'''
