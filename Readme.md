@@ -9,4 +9,5 @@ This course teaches lots of interesting robotics stuff.
 ls  
 cd  
 cp  
+cat    
 ```
